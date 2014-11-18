@@ -1,7 +1,7 @@
 zumo_android_sample
 ===================
 
-This project is an working example of Azure Mobile Service for Android. The Azure documentation does not provide enough information, so I upload simplified working source code.
+This project is an working example of Azure Mobile Service Push Notification for Android GCM. The Azure documentation does not provide enough information, so I upload simplified working source code.
 
 Modify following lines in **MainActivity.java**.
 
