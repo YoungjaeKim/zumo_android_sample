@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComCamp201411.iml" filepath="$PROJECT_DIR$/ComCamp201411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comcamp/comcamp.iml" filepath="$PROJECT_DIR$/comcamp/comcamp.iml" />
+    </modules>
+  </component>
+</project>
+

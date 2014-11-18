@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="notification-hubs-0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/comcamp/libs/notification-hubs-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/comcamp/libs/notification-hubs-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

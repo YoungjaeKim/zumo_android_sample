@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mobileservices-1.1.5-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/comcamp/libs/mobileservices-1.1.5-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
