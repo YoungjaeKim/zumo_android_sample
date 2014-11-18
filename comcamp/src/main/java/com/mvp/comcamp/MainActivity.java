@@ -67,7 +67,7 @@ public class MainActivity extends Activity {
 			// Mobile Service URL and key
 			mClient = new MobileServiceClient(
 					"https://***YOUR_ZUMO_DOMAIN***.azure-mobile.net/",
-					"***DOWNLOAD_FROM_AZURE_ZUMO_DASHBOARD***",
+					"***REPLACE_FROM_YOUR_ZUMO_TEMPLATE***",
 					this).withFilter(new ProgressFilter());
 
 			// Get the Mobile Service Table instance to use
