@@ -5,12 +5,12 @@ This project is an working example of Azure Mobile Service Push Notification for
 
 Modify following lines in **MainActivity.java**.
 
-1. line 50. Change below number to GCM project number (not project ID nickname).
+1.line 50. Change below number to GCM project number (not project ID nickname).
 ```java
 public static final String SENDER_ID = "0000000000"; // YOUR_GOOGLE_GCM_PROJECT_NUMBER
 ```
  
-2. line 60. Download android file from Azure Mobile Service dashboard and replace below `***placeholder***` values.
+2.line 60. Download android file from Azure Mobile Service dashboard and replace below `***placeholder***` values.
 ```java
 			mClient = new MobileServiceClient(
 					"https://***YOUR_ZUMO_DOMAIN***.azure-mobile.net/",
